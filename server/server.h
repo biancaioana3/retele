@@ -1,0 +1,6 @@
+#ifndef MYFTP_BI_SERVER_H
+#define MYFTP_BI_SERVER_H
+
+
+
+#endif //MYFTP_BI_SERVER_H

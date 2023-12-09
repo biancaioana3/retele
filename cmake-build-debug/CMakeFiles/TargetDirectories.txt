@@ -1,0 +1,8 @@
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/client.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/server.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/client_autogen_timestamp_deps.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/client_autogen.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/server_autogen_timestamp_deps.dir
+/Users/snistor/CLionProjects/myftp_bi/cmake-build-debug/CMakeFiles/server_autogen.dir
